@@ -3,40 +3,40 @@
 
 ## Website link
 
-- 
+- https://github.com/Miekooooo/Challenge-9
 
 ## Instructions
-1. 
-2. 
-3. 
+1. Run "npm i"
+2. Run "node index.js"
+3. Follow the questions within the console
 
 ## Description
 - 
 
 
-- "what was my motivation?" 
-- "why did I build this project?" 
-- "what problem does it solve?" 
-- "what did I learn?" 
+- "what was my motivation?" - To be able to easily create a ReadME
+- "why did I build this project?" - Learn more JS
+- "what problem does it solve?" - Give users a good looking ReadME without having to create their own by hand
+- "what did I learn?" - 
 
 ## Features
 
-- 
-- 
+- Inquirer 
+- Easy console commands
 
 ## Video link 
 
--
+- 
 
 ## Screenshots
 
-- 
-- 
-- 
+- ![Alt text](ss1.PNG)
+- ![Alt text](ss2.PNG)
+- ![Alt text](ss3.PNG)
 
 ## Installation
 
-- 
+- Could be a application a developer could run whenever they want a ReadMe
 
 ## Usage
 
@@ -44,7 +44,7 @@
 
 ## Credits
 
-
+-
 
 ## License 
 
