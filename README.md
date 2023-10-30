@@ -11,13 +11,13 @@
 3. Follow the questions within the console
 
 ## Description
-- 
+- A easy to use ReadMe generator using inquirer.
 
 
-- "what was my motivation?" - To be able to easily create a ReadME
+- "what was my motivation?" - To be able to easily create a ReadMe
 - "why did I build this project?" - Learn more JS
-- "what problem does it solve?" - Give users a good looking ReadME without having to create their own by hand
-- "what did I learn?" - 
+- "what problem does it solve?" - Give users a good looking ReadMe without having to create their own by hand
+- "what did I learn?" - How to create a ReadMe generator
 
 ## Features
 
@@ -40,7 +40,7 @@
 
 ## Usage
 
-- 
+- Could be added to a developer app as a tool to use
 
 ## Credits
 

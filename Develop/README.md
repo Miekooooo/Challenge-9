@@ -1,8 +1,8 @@
 
-# ReadME Generator
+# ReadMe Generator
 
 ## Description
-Creates a usable ReadME to the user
+Console command ReadMe Generator
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,10 +13,10 @@ Creates a usable ReadME to the user
 - [Questions](#questions)
 
 ## Installation
-Install
+node index, follow prompts
 
 ## Usage
-info
+usage
 
 ## License
 This project is licensed under the MIT license.
@@ -28,5 +28,5 @@ guidelines
 test
 
 ## Questions
-- GitHub: [meowmeow](https://github.com/meowmeow)
-- Email: meowmeow@gmail.com
+- GitHub: [meikoooooo](https://github.com/meikoooooo)
+- Email: meowmeow12@gmail.com
